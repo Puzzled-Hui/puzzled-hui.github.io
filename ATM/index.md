@@ -14,3 +14,27 @@ We collected 500 CT scans from multi-sites and multi-domains. The airway tree st
 <br/>
 We encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high topological completeness and accuracy for clinical use.
 </p>
+
+## Mission of The Challenge
+The automatic airway segmentation algorithms are expected to be optimized to have the following properties:
+
+* The completeness and the connectedness of the airway tree model. Only the largest component of the binary airway segmentation results are of clinical use and evaluated on the tree length detected rate (TD) and the branches detected rate (BD). 
+
+* The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
