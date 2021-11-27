@@ -27,7 +27,7 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 The annotation details can be seen [here](./annotation_detail.html).
 
 ## Future
-As we are dedicated to organizing the pulmonary airway segmentation challenge, more information and details will be included in this website.
+As we are dedicated to organizing the pulmonary airway segmentation challenge, more information, updates, and details will be included in this website.
 
 ### Reference
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
