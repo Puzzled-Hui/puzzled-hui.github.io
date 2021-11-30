@@ -2,15 +2,12 @@
 
 
 ## Pinciples
-<p align = "justify"> 
 
 We annotate the airway label based on the pre-trained model's segmentation. The annotation process contains the following principles:
 
 * Consistency principle: We first make sure that each annotator uses the same principle to annotate. Referring to [1], we establish the rules considering the annotating details like branches annotation, lumen wall annotation, etc.
 
 * Topology principle: To preserve the topological completeness of the airway labels, we manually annotate to repair some breakages and leakages in the pre-trained model's segmentation. We carefully relink the breakages and wipe out some small leakages based on the original CT features and anatomical prior knowledge.
-
-</p>
 
 
 ## Examples
