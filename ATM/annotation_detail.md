@@ -16,7 +16,7 @@ We annotate the airway label based on the pre-trained model's segmentation. The 
 ## Examples
 <p align = "justify">
 
-We will give some specific examples during the annotation process, which contains false negatives and false positives repairment in pre-trained model's segmentation.
+We will give some specific examples during the annotation process, which contains false negatives and false positives repairment to pre-trained model's segmentation.
 </p>
 
 <div align = center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/Annotation_details.png"></div>
