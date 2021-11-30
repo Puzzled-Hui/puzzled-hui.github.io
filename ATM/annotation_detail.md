@@ -6,22 +6,28 @@
 
 We annotate the airway label based on the pre-trained model's segmentation. The annotation process contains the following principles:
 
-* The 
+* Consistency principle: We first make sure that each annotator uses the same principle to annotate. Referring to [1], we establish the rules considering the annotating details like branches annotation, lumen wall annotation, etc.
+
+* Topology principle: To preserve the topological completeness of airway label. We manually annotate to repair some breakages and leakages in the pre-trained model's segmentation. We carefully relink the breakages and wipe out the small leakages. 
 
 </p>
 
 
 ## Examples
 <p align = "justify">
-We give some specific examples of the annotation for false negatives and false positives in pre-trained model's segmentation.  
+
+We will give some specific examples of annotation process for false negatives and false positives in pre-trained model's segmentation.  
 </p>
 
-<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/Annotation_details.png"></div>
+<div align = center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/Annotation_details.png"></div>
 
 <p align = "justify">
 
-* f
+* The 
 
 </p>
+
+### Reference
+[1] Netter F H. Atlas of human anatomy, Professional Edition E-Book: including NetterReference. com Access with full downloadable image Bank[M]. Elsevier health sciences, 2014.
 
 [back](./index.md)
