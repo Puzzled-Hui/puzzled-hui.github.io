@@ -1,7 +1,7 @@
 # Annotation Details
 
 
-## Pinciples
+## Principles
 
 We annotate the airway label based on the pre-trained model's segmentation. The annotation process contains the following principles:
 
