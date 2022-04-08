@@ -1,4 +1,4 @@
-# Multi-site, Multi-domain Airway Tree Modeling (ATM'22)
+# Multi-site, Multi-domain Airway Tree Modeling
 
 
 <!-- <div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/Lung_and_Airway.png"></div> -->
@@ -30,6 +30,9 @@ The annotation details can be seen [here](./annotation_detail.html).
 As we are dedicated to organizing the pulmonary airway segmentation challenge, more information, updates, and details will be included in this website.
 
 ### Reference
+
+The airway segmentation works are provided: [Airway Segmentation Paper Reading Summary](https://drive.google.com/file/d/12RgTbtGtOp8B6C5UOifnnx0d5__ua5NM/view?usp=sharing)
+
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
 <br/>
 [2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
