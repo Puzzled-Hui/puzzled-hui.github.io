@@ -31,7 +31,7 @@ As we are dedicated to organizing the pulmonary airway segmentation challenge, m
 
 ### Reference
 
-The airway segmentation works are provided: [Airway Segmentation Paper Reading Summary](https://drive.google.com/file/d/12RgTbtGtOp8B6C5UOifnnx0d5__ua5NM/view?usp=sharing)
+The airway segmentation works are provided: [Airway Segmentation Paper Reading Summary](https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing)
 
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
 <br/>
