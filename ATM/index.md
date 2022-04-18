@@ -66,7 +66,7 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <br> 
 Please refer to <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html">Dataset Details</a> to be more familiar with the 
 dataset structure, information, annotation details, etc,.
-<br><i class="fas fa-book"></i> <b>Citation</b> If using this dataset, you must cite the papers[3-6]. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
+<br><i class="fas fa-book"></i> <b>Citation:</b> If using this dataset, you must cite the papers[3-6]. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
 The organizers promise the blackout period will not be no longer than six months after the challenge is over.
 </p>
 
@@ -84,6 +84,11 @@ The organizers promise the blackout period will not be no longer than six months
 </p>
 <i class="fas fa-exclamation-triangle"></i> Only the <b>fully automatic</b> algorithms will be considered. Please send the docker container and 
 the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> via attachment or give the link to your submission, and then the organizer committee will download it.
+
+## <i class="fas fa-balance-scale-left fa-2x"></i> 
+## <i class="far fa-balance-scale-left fa-2x"></i> 
+## <i class="fad fa-balance-scale-left fa-2x"></i>
+##
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
 <p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
