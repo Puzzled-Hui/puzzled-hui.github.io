@@ -68,9 +68,15 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> First, please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
+<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation. After investigatation by the organizing committee, the access of the data will send back to the teams.
 <br>
-All registered teams should make a complete submission (including a <b>Docker tar file</b> and <b>a short paper</b>). 
+<i class="fa-solid fa-2"></i> All registered teams should make a complete submission, containing:
+<ul style="list-style-type:disc;">
+<li>Turkey</li>
+<li>USA</li>
+<li>Germany</li>
+<li>England</li>
+</ul>
 <br>
 The format of the docker file should follow this :  <a href="./docker_prepare.html"> Docker Submission Rule </a>.
 </p>
@@ -88,7 +94,7 @@ As we are dedicated to organizing the pulmonary airway segmentation challenge, m
 
 ### Reference
 <p style= "text-align:justify">
-Brief survey on airway segmentation: <a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.<br>
+Brief survey on airway segmentation: <a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Survey.pdf </a>.<br>
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.<br>
 [2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
 </p>
