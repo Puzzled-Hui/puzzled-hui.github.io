@@ -27,7 +27,7 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 The annotation details can be seen [here](./annotation_detail.html).
 
 ## Timeline
-<i class="fa-duotone fa-calendar"></i> Timeline for the challenge.
+<i class="fa-duotone fa-calendar"></i> Timeline for the challenge2.
 
 
 
