@@ -72,7 +72,7 @@ The organizers promise the blackout period will not be no longer than six months
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
+<i class="fa-solid fa-1"></i> Please send the <a href="mailto:IMR-ATM22@outlook.com"> <font color="red"><b>signed document</b></a> </font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
 <br>  
 <i class="fa-solid fa-2"></i> After investigatation, organizing committee will send the access of the data to the teams.
 <br>
@@ -90,7 +90,7 @@ the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com
 <p style= "text-align:justify">
 We aim to segment the accurate airway tree model. For one thing, only the largest component of the binary airway segmentation results are of clinical, to measure the completeness and the connectedness of the participating teams’ results, we use the tree length detected rate (TD) and the branches detected rate (BD). For another thing, we use the metric of the Dice similarity coefficient to measure the overlap-wise segmentation
 accuracy. In addition, we use the F1 score to measure the voxel-wise segmentation performance, which takes into account both the false positive and false negative errors. Hence, we finally choose the following metrics:<br>
-[1] tree length detected rate (TD) and the branches detected rate (BD).
+[1] Tree length detected rate (TD) and the branches detected rate (BD).
 <br>
 [2] Dice similarity coefficient (DSC) and F1 score.
 <br>
