@@ -31,7 +31,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 <p style= "text-align:justify">
 Bruijne et al. [1] held the ‘Extraction of airways from CT (EXACT'09)’ challenge in 2009 and achieved a great contribution to the field of airway segmentation. They focused on semi-automated and automated algorithms mainly based on multi-threshold, template matching, and region growing, aiming to relieve the burden of manual delineation and help clinicians explore the influence of pneumonia on airways. These traditional algorithms face difficulty in extracting small peripheral bronchi and suffer the risk of airway leakage. With the advance of deep learning methods, fully convolutional networks (FCNs) achieved state-of-the-art performance in the segmentation task of volumetric medical data. Most of the deep learning methods are data-driven while the EXACT’09 contains only 20 CT scans for training and 20 CT scans for testing, which is not sufficient for the artificial intelligence era. 
 
-We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high <b> topological completeness </b> and <b> accuracy </b> for clinical use.
+We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high <b> topological completeness </b> and <b> accuracy </b> for clinical use. Our challenge is open call (challenge opens for new submissions after conference deadline).
 </p>
 
 ## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
@@ -66,12 +66,8 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <br> 
 Please refer to <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html">Dataset Details</a> to be more familiar with the 
 dataset structure, information, annotation details, etc,.
-<br>
-<i class="fas fa-books"></i><br>
-<i class="fal fa-books"></i><br>
-<i class="fad fa-books"></i><br>
-<i class="fas fa-book"></i><br>
-<i class="far fa-book"></i>
+<br><i class="fas fa-book"></i> <b>Citation</b> If using this dataset, you must cite the papers[3-6]. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
+The organizers promise the blackout period will not be no longer than six months after the challenge is over.
 </p>
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
