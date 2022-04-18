@@ -1,5 +1,6 @@
 # Annotation Details
 
+<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
 
 ## Principles
 

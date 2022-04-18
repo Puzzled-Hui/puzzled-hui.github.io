@@ -34,8 +34,6 @@ Bruijne et al. [1] held the ‘Extraction of airways from CT (EXACT'09)’ chall
 We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high <b> topological completeness </b> and <b> accuracy </b> for clinical use.
 </p>
 
-<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
-
 ## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 20 May 2022 </font>: Registration open.
 
@@ -51,7 +49,7 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
-<font color=black> Prof. Guang-Zhong Yang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)     
+<p><font color=black> Prof. Guang-Zhong Yang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 
 <font color=black>Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
 
