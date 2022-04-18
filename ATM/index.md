@@ -27,7 +27,7 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 The annotation details can be seen [here](./annotation_detail.html).
 
 ## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
-<i class="fa-solid fa-circle-chevron-right"></i> 20 May 2022: Registration Open
+<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 20 May 2022 </font> : Registration Open
 
 
 
