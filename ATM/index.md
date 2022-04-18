@@ -26,7 +26,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset and the Shanghai Chest hospital. Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
 The annotation details can be seen [here](./annotation_detail.html).
 
-## <i class="fab fa-weixin fa-2x"></i> Timeline
+## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
 <i class="fa-solid fa-calendar"></i> Timeline for the challenge22.
 
 
