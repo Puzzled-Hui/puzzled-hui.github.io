@@ -25,7 +25,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 
 
 ## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
-<i class="fa-solid fa-circle-chevron-right"></i> ~~<font color=black> 20 May 2022 </font>~~ 25 May 2022 : Registration open.
+<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 20 May 2022 </font>: Registration open.
 
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 30 May 2022 </font> : Release of the training and validation data.
 
@@ -37,7 +37,8 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 18 Sep 2022 </font> : Top 10 teams’ results have been announced.
 
-## <i class="fa-duotone fa-screen-users"></i> Organizers
+
+## <i class="fa-duotone fa-screen-users fa-2x"></i> Organizers
 
 
 
