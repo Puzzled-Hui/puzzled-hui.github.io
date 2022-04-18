@@ -51,23 +51,23 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
-<font color=black>Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Mr. Minghui Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Mr. Hanxiao Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Dr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Dr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-<br/>
-<font color=black>Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)</font>
+<font color=black> Prof. Guang-Zhong Yang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)     
+
+<font color=black>Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Mr. Minghui Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Mr. Hanxiao Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Dr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Dr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>  
+
+<font color=black>Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)</font>  
 
 
 
