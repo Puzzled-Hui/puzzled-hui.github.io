@@ -60,15 +60,16 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <p><font color=black> Prof. Jiayuan Sun </font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)</p>
 
 
-
-
-
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
 We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset and the Shanghai Chest hospital. Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
 <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
 </p>
 
+## <i class="fas fa-cloud-upload fa-2x"></i> Registration and Submission Guideline
+<p style= "text-align:justify">
+All registered teams should make a complete submission (including a <b>Docker tar file</b> and <b>a short paper</b>). 
+</p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
