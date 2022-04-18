@@ -62,18 +62,20 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
-We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset and the Shanghai Chest hospital. Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
+We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset [2] and the Shanghai Chest hospital. Ethical  Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
 <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
 </p>
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation. <br>  After investigatation by the organizing committee, the access of the data will send back to the teams.
+<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
+<br>  
+<i class="fa-solid fa-2"></i> After investigatation, organizing committee will send the access of the data to the teams.
 <br>
-<i class="fa-solid fa-2"></i> All registered teams should make a complete submission, containing:
+<i class="fa-solid fa-3"></i> Only fully automatical algorithms are considered. All registered teams should make a complete submission, containing:
 <ul style="list-style-type:disc;">
 <li>The docker container. The format of the docker file should follow: <i class="far fa-hand-point-right"></i> <a href="./docker_prepare.html"> Docker Submission Rule </a>. </li>
-<li>A short paper </li>
+<li>A short paper describes their methods, 2 pages at least, no more than 8 pages. Template same as MICCAI: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> LNCS </a>. </li>
 </ul>
 </p>
 
