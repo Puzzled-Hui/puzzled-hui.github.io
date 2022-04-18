@@ -88,7 +88,7 @@ As we are dedicated to organizing the pulmonary airway segmentation challenge, m
 
 ### Reference
 <p style= "text-align:justify">
-<a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.<br>
+Brief survey on airway segmentation are provided: <a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.<br>
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.<br>
 [2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
 </p>
