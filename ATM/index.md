@@ -38,6 +38,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 18 Sep 2022 </font> : Top 10 teams’ results have been announced.
 
 <i class="fa-solid fa-person-chalkboard"></i>
+<i class="fas fa-user-chart"></i>
 
 ## <i class="fa-light fa-screen-users"></i> Organizers
 Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)
