@@ -68,29 +68,20 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation. After investigatation by the organizing committee, the access of the data will send back to the teams.
+<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation. <br>  After investigatation by the organizing committee, the access of the data will send back to the teams.
 <br>
 <i class="fa-solid fa-2"></i> All registered teams should make a complete submission, containing:
 <ul style="list-style-type:disc;">
-<li>Turkey</li>
-<li>USA</li>
-<li>Germany</li>
-<li>England</li>
+<li>The docker container. The format of the docker file should follow: <i class="far fa-hand-point-right"></i> <a href="./docker_prepare.html"> Docker Submission Rule </a>. </li>
+<li>A short paper </li>
 </ul>
-<br>
-The format of the docker file should follow this :  <a href="./docker_prepare.html"> Docker Submission Rule </a>.
 </p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
 <p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
-
 </p>
 
-
-
-<!-- ## Future
-As we are dedicated to organizing the pulmonary airway segmentation challenge, more information, updates, and details will be included in this website. -->
 
 ### Reference
 <p style= "text-align:justify">
