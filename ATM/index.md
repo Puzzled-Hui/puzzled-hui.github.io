@@ -81,23 +81,26 @@ The organizers promise the blackout period will not be no longer than six months
 <li>The docker container. The format of the docker file should follow: <i class="far fa-hand-point-right"></i> <a href="./docker_prepare.html"> Docker Submission Rule</a>. </li>
 <li>A short paper, 2 pages at least, no more than 8 pages. Template same as MICCAI: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> LNCS</a>.</li>
 </ul>
-</p>
+
 <i class="fas fa-exclamation-triangle"></i> Only the <b>fully automatic</b> algorithms will be considered. Please send the docker container and 
 the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> via attachment or give the link to your submission, and then the organizer committee will download it.
+</p>
 
 ## <i class="fas fa-balance-scale-left fa-2x"></i> Evaluation
+<p style= "text-align:justify">
 We aim to segment the accurate airway tree model. For one thing, only the largest component of the binary airway segmentation results are of clinical, to measure the completeness and the connectedness of the participating teams’ results, we use the tree length detected rate (TD) and the branches detected rate (BD). For another thing, we use the metric of the Dice similarity coefficient to measure the overlap-wise segmentation
 accuracy. In addition, we use the F1 score to measure the voxel-wise segmentation performance, which takes into account both the false positive and false negative errors. Hence, we finally choose the following metrics:<br>
 [1] tree length detected rate (TD) and the branches detected rate (BD).
 <br>
 [2] Dice similarity coefficient (DSC) and F1 score.
 <br>
+</p>
 <div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/airway_parse.png"></div>
-
+<p style= "text-align:justify">
 Specifically, The TD is the fraction detected correctly relative to the total tree length in the reference label, and the
 BD is the percentage of branches that are detected correctly with respect to the total number of branches present
 in the reference label, as Fig.1 shows the parsing of the airway structure. The above metrics are commonly used in airway segmentations since 
-the EXACT'09 Challenge [1].
+the EXACT'09 Challenge [1].</p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
