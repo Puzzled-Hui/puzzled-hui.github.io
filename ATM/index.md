@@ -23,8 +23,6 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 
 ## <i class="fas fa-home fa-2x"></i> Home 
-<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
-
 ### <i class="fas fa-file-alt"></i> Background and Clinical Significance
 <p style= "text-align:justify"> Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the <b>fine-grained pulmonary airway structure</b>, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians. </p>
 
@@ -36,6 +34,7 @@ Bruijne et al. [1] held the ‘Extraction of airways from CT (EXACT'09)’ chall
 We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high <b> topological completeness </b> and <b> accuracy </b> for clinical use.
 </p>
 
+<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
 
 ## <i class="fa-solid fa-calendar fa-2x"></i>  Timeline
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 20 May 2022 </font>: Registration open.
@@ -53,21 +52,21 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
 <font color=black>Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Mr. Minghui Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Mr. Hanxiao Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Dr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Dr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
-
+<br/>
 <font color=black>Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)</font>
 
 
