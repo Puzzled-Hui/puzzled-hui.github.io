@@ -32,6 +32,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: $body-text-color;
+  text-align: justify;
 }
 
 #skip-to-content {
@@ -162,7 +163,7 @@ a {
 .main-content {
   word-wrap: break-word;
   text-align: justify;
-  
+
   :first-child {
     margin-top: 0;
   }
