@@ -23,13 +23,15 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 
 ## <i class="fas fa-home fa-2x"></i> Home
-### Background and Clinical Significance
-Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and 
-emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative 
-measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic 
-obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is 
-required for navigation in bronchoscopic-assisted surgery. Due to the **fine-grained pulmonary airway structure**, 
-manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians.
+### <i class="fas fa-file-alt"></i> Background and Clinical Significance
+Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the **fine-grained pulmonary airway structure**, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians.
+
+### <i class="fas fa-edit"></i> Objective
+We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three 
+radiologists with more than five years of professional experience. The intra-class imbalance among the
+trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of
+peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can
+extract the airway tree structure with high **topological completeness** and **accuracy** for clinical use.
 
 
 
