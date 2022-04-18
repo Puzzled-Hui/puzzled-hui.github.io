@@ -27,11 +27,9 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the **fine-grained pulmonary airway structure**, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians.
 
 ### <i class="fas fa-edit"></i> Objective
-We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three 
-radiologists with more than five years of professional experience. The intra-class imbalance among the
-trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of
-peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can
-extract the airway tree structure with high **topological completeness** and **accuracy** for clinical use.
+Bruijne et al. [1] held the ‘Extraction of airways from CT (EXACT'09)’ challenge in 2009 and achieved a great contribution to the field of airway segmentation. They focused on semi-automated and automated algorithms mainly based on multi-threshold, template matching, and region growing, aiming to relieve the burden of manual delineation and help clinicians explore the influence of pneumonia on airways. These traditional algorithms face difficulty in extracting small peripheral bronchi and suffer the risk of airway leakage. With the advance of deep learning methods, fully convolutional networks (FCNs) achieved state-of-the-art performance in the segmentation task of volumetric medical data. Most of the deep learning methods are data-driven while the EXACT’09 contains only 20 CT scans for training and 20 CT scans for testing, which is not sufficient for the artificial intelligence era. 
+
+We collected 500 CT scans from multi-sites. The airway tree structures are carefully labeled by three radiologists with more than five years of professional experience. The intra-class imbalance among the trachea, main bronchi, lobar bronchi, and distal segmental bronchi affects the segmentation performance of peripheral bronchi. In conclusion, we encourage the participating teams to design robust algorithms, which can extract the airway tree structure with high **topological completeness** and **accuracy** for clinical use.
 
 
 
