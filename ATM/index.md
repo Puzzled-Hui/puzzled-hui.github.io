@@ -39,6 +39,10 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 
 
 ## <i class="fa-duotone fa-screen-users fa-2x"></i> Organizers
+Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
 
 
 
