@@ -66,14 +66,19 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
 </p>
 
-## <i class="fas fa-cloud-upload fa-2x"></i> Registration and Submission Guideline
+## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
+
 All registered teams should make a complete submission (including a <b>Docker tar file</b> and <b>a short paper</b>). 
+
+The format of the docker file should follow this :  <a href="./docker_prepare.html"> Docker Submission Rule </a>.
 </p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
-<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: IMR-ATM22@outlook.com | Primary Contact: geron762@sjtu.edu.cn</p>
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
+
+</p>
 
 
 
