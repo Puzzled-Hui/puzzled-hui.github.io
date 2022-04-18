@@ -43,6 +43,20 @@ Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong Univer
 
 Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
+Mr. Minghui Zhang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Mr. Hanxiao Zhang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Mr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Mr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)
+
+Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)
+
 
 
 
