@@ -68,15 +68,16 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-
+First, please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </ for paticipation.
+<br>
 All registered teams should make a complete submission (including a <b>Docker tar file</b> and <b>a short paper</b>). 
-
+<br>
 The format of the docker file should follow this :  <a href="./docker_prepare.html"> Docker Submission Rule </a>.
 </p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
-<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
 
 </p>
 
@@ -87,10 +88,8 @@ As we are dedicated to organizing the pulmonary airway segmentation challenge, m
 
 ### Reference
 <p style= "text-align:justify">
-<a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.
-
-[1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
-
+<a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.<br>
+[1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.<br>
 [2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
 </p>
 
