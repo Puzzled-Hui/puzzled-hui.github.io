@@ -50,23 +50,23 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
-Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Prof. Guang-Zhong Yang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Dr. Yun Gu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Minghui Zhang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Minghui Zhang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Yangqian Wu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Hanxiao Zhang (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Hanxiao Zhang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Weihao Yu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Hao Zheng</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Mr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Yulei Qin</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
 
-Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)
+<font color=black>Prof. Jiayuan Sun</font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)
 
 
 
