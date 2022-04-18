@@ -72,7 +72,7 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
-<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: IMR-ATM22@outlook.com<br> Primary Contact: geron762@sjtu.edu.cn</p>
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: IMR-ATM22@outlook.com | Primary Contact: geron762@sjtu.edu.cn</p>
 
 
 
@@ -80,13 +80,13 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 As we are dedicated to organizing the pulmonary airway segmentation challenge, more information, updates, and details will be included in this website. -->
 
 ### Reference
-
-The airway segmentation works are provided: [IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf](https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing)
+<p style= "text-align:justify">
+<a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf </a>.
 
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
-<br/>
-[2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
 
+[2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
+</p>
 
 
 <head> 
