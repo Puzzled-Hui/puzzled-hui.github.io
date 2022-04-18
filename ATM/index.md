@@ -78,7 +78,8 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 <li>A short paper, 2 pages at least, no more than 8 pages. Template same as MICCAI: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> LNCS</a>.</li>
 </ul>
 </p>
-<i class="fas fa-exclamation-triangle"></i><i class="far fa-exclamation-triangle"></i><i class="fal fa-exclamation-triangle"></i>
+<i class="fas fa-exclamation-triangle"></i> Only the <b>fully automatic</b> algorithms will be considered. Please send the docker container and 
+the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> via attachment or give the link to your submission, and then the organizer committee will download it.
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
 <p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
