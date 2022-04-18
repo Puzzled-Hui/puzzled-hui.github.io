@@ -71,8 +71,8 @@ The annotation details can be seen <a href="./annotation_detail.html">[here]</a>
 
 
 
-
-
+## <i class="fas fa-envelope fa-2x"></i> Contact Us
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: IMR-ATM22@outlook.com<br> Primary Contact: geron762@sjtu.edu.cn</p>
 
 
 
