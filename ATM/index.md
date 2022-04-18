@@ -62,11 +62,12 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
-500 CT scans are collected from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset [2] and the Shanghai Chest hospital. Ethics approval is acquired. Each thoracic CT scan is first preprocessed by some strong deep learning models [3][4][5] and ensemble strategy to acquire the preliminary segmentation result and then carefullt delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
-<i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
-
-
-
+500 CT scans (300 for training, 50 for validation, 150 for testing) are collected from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset [2] and the Shanghai Chest hospital. Ethics approval is acquired. Each thoracic CT scan is first preprocessed by some strong deep learning models [3][4][5] and ensemble strategy to acquire the preliminary segmentation result and then carefullt delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure.
+<br> 
+Please refer to <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Dataset Details </a>. to be more familiar with the 
+dataset structure, information, annotation details, etc,.
+<br>
+<i class="fas fa-books"></i><i class="fal fa-books"></i><i class="fad fa-books"></i>
 </p>
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
