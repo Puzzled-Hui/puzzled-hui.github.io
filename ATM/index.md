@@ -62,8 +62,11 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
-We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset [2] and the Shanghai Chest hospital. Ethical  Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
+500 CT scans are collected from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset [2] and the Shanghai Chest hospital. Ethics approval is acquired. Each thoracic CT scan is first preprocessed by some strong deep learning models [3][4][5] and ensemble strategy to acquire the preliminary segmentation result and then carefullt delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
 <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
+
+
+
 </p>
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
@@ -89,8 +92,17 @@ the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com
 ### Reference
 <p style= "text-align:justify">
 Brief survey on airway segmentation: <a href="https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing"> IMR@SJTU_Airway_Segmentation_Survey.pdf </a>.<br>
-[1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.<br>
-[2] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
+[1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
+<br>
+[2] Armato III S G, McLennan G, Bidaut L, et al. The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans[J]. Medical physics, 2011, 38(2): 915-931.
+<br>
+[3] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
+<br>
+[4] Zhang M, Yu X, Zhang H, et al. FDA: Feature Decomposition and Aggregation for Robust Airway Segmentation[M]//Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health. Springer, Cham, 2021: 25-34.
+<br>
+[5] Yu W, Zheng H, Zhang M, et al. BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding[J]. arXiv preprint arXiv:2202.00002, 2022.
+<br>
+[6] Qin Y, Chen M, Zheng H, et al. Airwaynet: a voxel-connectivity aware approach for accurate airway segmentation using convolutional neural networks[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 212-220.
 </p>
 
 
