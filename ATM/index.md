@@ -68,7 +68,7 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-First, please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </ for paticipation.
+First, please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
 <br>
 All registered teams should make a complete submission (including a <b>Docker tar file</b> and <b>a short paper</b>). 
 <br>
