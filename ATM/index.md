@@ -66,7 +66,7 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
 We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset and the Shanghai Chest hospital. Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
-<i class="fad fa-hand-point-right"></i> <i class="fas fa-hand-point-right"></i> <i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html">[Annotation details are provided]</a>.
+<i class="far fa-hand-point-right"></i> <a href="./annotation_detail.html"> Annotation details are provided </a>.
 </p>
 
 
@@ -81,7 +81,7 @@ As we are dedicated to organizing the pulmonary airway segmentation challenge, m
 
 ### Reference
 
-The airway segmentation works are provided: [Airway Segmentation Paper Reading Summary](https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing)
+The airway segmentation works are provided: [IMR@SJTU_Airway_Segmentation_Paper_Reading_Summary.pdf](https://drive.google.com/file/d/1s5fO4swUJGgHGCO9cDUoupGY1x9vCLMw/view?usp=sharing)
 
 [1] Lo P, Van Ginneken B, Reinhardt J M, et al. Extraction of airways from CT (EXACT'09)[J]. IEEE Transactions on Medical Imaging, 2012, 31(11): 2093-2107.
 <br/>
