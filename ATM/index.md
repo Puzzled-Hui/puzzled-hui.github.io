@@ -72,13 +72,13 @@ We collected 500 CT scans from multi-sites. The thoracic CT scans are collected 
 <br>  
 <i class="fa-solid fa-2"></i> After investigatation, organizing committee will send the access of the data to the teams.
 <br>
-<i class="fa-solid fa-3"></i> Only fully automatical algorithms are considered. All registered teams should make a complete submission, containing:
+<i class="fa-solid fa-3"></i> All the registered teams should make a complete submission, containing:
 <ul style="list-style-type:disc;">
-<li>The docker container. The format of the docker file should follow: <i class="far fa-hand-point-right"></i> <a href="./docker_prepare.html"> Docker Submission Rule </a>. </li>
-<li>A short paper describes their methods, 2 pages at least, no more than 8 pages. Template same as MICCAI: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> LNCS </a>. </li>
+<li>The docker container. The format of the docker file should follow: <i class="far fa-hand-point-right"></i> <a href="./docker_prepare.html"> Docker Submission Rule</a>. </li>
+<li>A short paper, 2 pages at least, no more than 8 pages. Template same as MICCAI: <a href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines"> LNCS</a>.</li>
 </ul>
 </p>
-
+<i class="fas fa-exclamation-triangle"></i><i class="far fa-exclamation-triangle"></i><i class="fal fa-exclamation-triangle"></i>
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
 <p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
