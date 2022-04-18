@@ -23,6 +23,8 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 
 ## <i class="fas fa-home fa-2x"></i> Home 
+<div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
+
 ### <i class="fas fa-file-alt"></i> Background and Clinical Significance
 <p style= "text-align:justify"> Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the <b>fine-grained pulmonary airway structure</b>, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians. </p>
 
@@ -50,23 +52,23 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
-<font color=black>Prof. Guang-Zhong Yang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Prof. Guang-Zhong Yang (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Dr. Yun Gu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Dr. Yun Gu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Minghui Zhang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Minghui Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Yangqian Wu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Yangqian Wu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Hanxiao Zhang</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Hanxiao Zhang(Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Weihao Yu</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Mr. Weihao Yu (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Hao Zheng</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Dr. Hao Zheng (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Mr. Yulei Qin</font> (Institute of Medical Robotics, Shanghai Jiao Tong University)
+<font color=black>Dr. Yulei Qin (Institute of Medical Robotics, Shanghai Jiao Tong University)</font>
 
-<font color=black>Prof. Jiayuan Sun</font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)
+<font color=black>Prof. Jiayuan Sun (Department of Respiratory Endoscopy, Shanghai Chest hospital)</font>
 
 
 
@@ -76,6 +78,9 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 We collected 500 CT scans from multi-sites. The thoracic CT scans are collected from the public LIDC-IDRI dataset and the Shanghai Chest hospital. Each thoracic CT scan is first preprocessed by a strong deep learning model [2] to acquire the preliminary segmentation result and then delineated and double-checked by three radiologists with more than five years of professional experience to acquire the final refined airway tree structure. 
 The annotation details can be seen <a href="./annotation_detail.html">[here]</a>.
 </p>
+
+
+
 
 
 
