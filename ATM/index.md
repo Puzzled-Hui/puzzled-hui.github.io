@@ -23,6 +23,8 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 
 ## <i class="fas fa-home fa-2x"></i> Home 
+<i class="fa-regular fa-newspaper fa-2x"></i><i class="fa-thin fa-newspaper fa-2x"></i><i class="fa-solid fa-newspaper fa-2x"></i>
+
 ### <i class="fas fa-file-alt"></i> Background and Clinical Significance
 <p style= "text-align:justify"> Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the <b>fine-grained pulmonary airway structure</b>, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians. </p>
 
@@ -72,7 +74,7 @@ The organizers promise the blackout period will not be no longer than six months
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> Please send the <font color="red"><b>signed document</b></font> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
+<i class="fa-solid fa-1"></i> Please send the <a href="https://drive.google.com/file/d/1hIR7KKe_8zRO1Af1_6kuu5RGUqeqLlnQ/view?usp=sharing"> <font color="red"><b>signed document</b></font></a> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
 <br>  
 <i class="fa-solid fa-2"></i> After investigatation, organizing committee will send the access of the data to the teams.
 <br>
