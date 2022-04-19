@@ -88,10 +88,10 @@ the short paper to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com
 
 ## <i class="fas fa-balance-scale-left fa-2x"></i> Evaluation
 <p style= "text-align:justify">
-We aim to segment the accurate airway tree model. For one thing, only the largest component of the binary airway segmentation results are of clinical, to measure the completeness and the connectedness of the participating teams’ results, we use the tree length detected rate (TD) and the branches detected rate (BD). For another thing, we use the metric of the Dice similarity coefficient to measure the overlap-wise segmentation accuracy. Hence, we finally choose the following metrics:<br>
+We aim to segment the accurate airway tree model. For one thing, only the largest component of the binary airway segmentation results are of clinical, to measure the completeness and the connectedness of the participating teams’ results, we use the tree length detected rate (TD) and the branches detected rate (BD). For another thing, we use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise segmentation accuracy. Hence, we finally choose the following metrics:<br>
 [1] Tree length detected rate (TD) and the branches detected rate (BD).
 <br>
-[2] Dice similarity coefficient (DSC).
+[2] Dice similarity coefficient (DSC) and Precision.
 <br>
 </p>
 <div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/airway_parse.png"></div>
