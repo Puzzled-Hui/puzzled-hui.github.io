@@ -23,7 +23,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 
 ## <i class="fas fa-home fa-2x"></i> Home 
-<i class="fa-solid fa-newspaper fa-2x"></i> <font color="red" size=4><b>NEWS</b></font>
+<font color="red" size=6><b> <i class="fa-solid fa-newspaper fa-2x"></i>  NEWS</b></font>
 
 ### <i class="fas fa-file-alt"></i> Background and Clinical Significance
 <p style= "text-align:justify"> Airway segmentation is a crucial step for the analysis of pulmonary diseases including asthma, bronchiectasis, and emphysema. The accurate segmentation based on X-Ray computed tomography (CT) enables the quantitative measurements of airway dimensions and wall thickness, which can reveal the abnormality of patients with chronic obstructive pulmonary disease (COPD). Besides, the extraction of patient-specific airway models from CT images is required for navigation in bronchoscopic-assisted surgery. Due to the <b>fine-grained pulmonary airway structure</b>, manual annotation is however time-consuming, error-prone, and highly relies on the expertise of clinicians. </p>
