@@ -25,6 +25,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 <font color="firebrick" size=6><b> <i class="fa-solid fa-newspaper fa-2x"></i>  NEWS</b></font>
 <br>
 <font color="black"> 2022/04/19: Personal Challenge Website Open.</font>
+<br>
 <font color="black"> 2022/05/01: The Official Website Open, Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for registration and participation.</font>
 </p>
 
