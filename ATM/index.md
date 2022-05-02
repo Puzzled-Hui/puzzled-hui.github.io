@@ -73,7 +73,7 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <br> 
 Please refer to <i class="far fa-hand-point-right"></i> <a href="./dataset_detail.html">Dataset Details</a> to be more familiar with the 
 dataset structure, information, annotation details, etc,.
-<br><i class="fas fa-book"></i> <b>Citation:</b> If using this dataset, you must <font color="firebrick"> cite the following papers[3-6] </font>. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
+<br><i class="fas fa-book"></i> <b>Citation:</b> If using this dataset, you must <font color="firebrick"> <b>cite the following papers[3-6] </b></font>. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
 The organizers promise the blackout period will not be no longer than six months after the challenge is over.
 </p>
 
