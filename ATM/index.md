@@ -73,7 +73,16 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <br> 
 Please refer to <i class="far fa-hand-point-right"></i> <a href="./dataset_detail.html">Dataset Details</a> to be more familiar with the 
 dataset structure, information, annotation details, etc,.
-<br><i class="fas fa-book"></i> <b>Citation:</b> If using this dataset, you must cite the papers[3-6]. In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
+<br><i class="fas fa-book"></i> <b>Citation:</b> If using this dataset, you must cite the following papers[3-6]. <br>
+[3] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
+<br>
+[4] Zhang M, Yu X, Zhang H, et al. FDA: Feature Decomposition and Aggregation for Robust Airway Segmentation[M]//Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health. Springer, Cham, 2021: 25-34.
+<br>
+[5] Yu W, Zheng H, Zhang M, et al. BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding[J]. arXiv preprint arXiv:2202.00002, 2022.
+<br>
+[6] Qin Y, Chen M, Zheng H, et al. Airwaynet: a voxel-connectivity aware approach for accurate airway segmentation using convolutional neural networks[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 212-220.
+<br>
+In addition, transfer of the dataset to others is not allowed! The challenge data and results will be free to use after the challenge results publication has been released. 
 The organizers promise the blackout period will not be no longer than six months after the challenge is over.
 </p>
 
