@@ -125,7 +125,7 @@ Brief survey on airway segmentation: <a href="https://drive.google.com/file/d/1s
 <br>
 [4] Zhang M, Yu X, Zhang H, et al. FDA: Feature Decomposition and Aggregation for Robust Airway Segmentation[M]//Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health. Springer, Cham, 2021: 25-34.
 <br>
-[5] Yu W, Zheng H, Zhang M, et al. BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding[J]. arXiv preprint arXiv:2202.00002, 2022.
+[5] Yu W, Zheng H, Zhang M, et al. BREAK: Bronchi Reconstruction by gEodesic transformation And sKeleton embedding[C]//2022 IEEE 19th International Symposium on Biomedical Imaging (ISBI). IEEE, 2022: 1-5.
 <br>
 [6] Qin Y, Chen M, Zheng H, et al. Airwaynet: a voxel-connectivity aware approach for accurate airway segmentation using convolutional neural networks[C]//International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2019: 212-220.
 </p>
