@@ -46,9 +46,9 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 30 May 2022 </font> : Release of the training and validation data.
 
-<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 15 July 2022 </font> : Deadline for validation submission.
+<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 15 July 2022 </font> : Open for validation submission.
 
-<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 10 Aug 2022 </font> : Testing set opening.
+<i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 10 Aug 2022 </font> : Deadline of validation submission and Testing set opening.
 
 <i class="fa-solid fa-circle-chevron-right"></i> <font color=black> 25 Aug 2022 </font> : Deadline for testing submission.
 
