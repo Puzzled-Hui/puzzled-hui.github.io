@@ -121,7 +121,7 @@ Brief survey on airway segmentation: <a href="https://drive.google.com/file/d/1s
 <br>
 [2] Armato III S G, McLennan G, Bidaut L, et al. The lung image database consortium (LIDC) and image database resource initiative (IDRI): a completed reference database of lung nodules on CT scans[J]. Medical physics, 2011, 38(2): 915-931.
 <br>
-[3] Zheng H, Qin Y, Gu Y, et al. Alleviating Class-wise Gradient Imbalance for Pulmonary Airway Segmentation[J]. IEEE Transactions on Medical Imaging, 2021.
+[3] Zheng H, Qin Y, Gu Y, et al. Alleviating class-wise gradient imbalance for pulmonary airway segmentation[J]. IEEE Transactions on Medical Imaging, 2021, 40(9): 2452-2462.
 <br>
 [4] Zhang M, Yu X, Zhang H, et al. FDA: Feature Decomposition and Aggregation for Robust Airway Segmentation[M]//Domain Adaptation and Representation Transfer, and Affordable Healthcare and AI for Resource Diverse Global Health. Springer, Cham, 2021: 25-34.
 <br>
