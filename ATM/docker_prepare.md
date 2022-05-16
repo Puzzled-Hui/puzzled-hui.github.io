@@ -10,7 +10,7 @@ We are very grateful to the <a href="https://flare.grand-challenge.org/"> FLARE-
 tutorial, we will follow these formats.
 The docker should be saved with (please do not use capital letters in the teamname): 
 <br> 
-<code> docker save teamname:latest -o teamname.tar.gz </code>
+<font size="3"><code>  docker save teamname:latest -o teamname.tar.gz  </code></font>
 <br> 
 The submitted docker should be named as `teamname.tar.gz` (teamname should be lowercase letters). The samples in the test set are evaluated one-by-one by runing the docker with:
 <br> 
