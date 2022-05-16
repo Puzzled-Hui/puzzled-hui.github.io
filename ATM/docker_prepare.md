@@ -12,7 +12,12 @@ The docker should be saved with (please do not use capital letters in the teamna
 <br> 
 <code> docker save teamname:latest -o teamname.tar.gz </code>
 <br> 
-
+The submitted docker should be named as `teamname.tar.gz` (teamname should be lowercase letters). The samples in the test set are evaluated one-by-one by runing the docker with:
+<br> 
+<code>docker image load < teamname.tar.gz</code>
+<br> 
+<code>docker container run --gpus "device=1" --name teamname --rm -v $PWD/inputs/:/workspace/inputs/ -v $PWD/teamname_outputs/:/workspace/outputs/ teamname:latest /bin/bash -c "sh predict.sh"</code>
+<br> 
 
 
 </p>
