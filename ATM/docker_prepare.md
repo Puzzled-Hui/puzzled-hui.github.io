@@ -18,7 +18,7 @@ The submitted docker should be named as `teamname.tar.gz` (teamname should be lo
 <br> 
 <code>docker container run --gpus "device=1" --name teamname --rm -v $PWD/inputs/:/workspace/inputs/ -v $PWD/teamname_outputs/:/workspace/outputs/ teamname:latest /bin/bash -c "sh predict.sh"</code>
 <br> 
-
+<br> 
 <i class="fas fa-exclamation-triangle"></i> NOTE:
 We will mount the $PWD/inputs/ [a folder contains testing cases, file structure is same as the training and validation] to /workspace/inputs/ in your docker container, and and mount $PWD/teamname_outputs/ [an empty folder used to save individual prediction results] to /workspace/outputs/ in your docker container.
 
