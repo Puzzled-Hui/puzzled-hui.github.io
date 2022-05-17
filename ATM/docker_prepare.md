@@ -42,8 +42,18 @@ There are some useful public links that we recommend for you in case you are not
 <a href="https://github.com/PerceptionComputingLab/PARSE2022/blob/main/docker_rules/docker-submission-rules.md"> Docker Example 2 </a>
 
 ## Validation Phase Submission Guideline
-
-
+In regard to the validation phase, we open a validation phase in the grand-challenge, in this phase, you should:
+<br>
+Step 1. Email a short paper to IMR-ATM22@outlook.com.
+<br>
+Step 2. Submit the compressed binary segmentation result (e.g., teamnameVal1.zip) on the Validation Phase.  Folder structure:
+<br>
+teamnameVal1/
+|————ATM_301_0000.nii.gz<br>
+|————ATM_301_0000.nii.gz<br>
+...<br>
+|————ATM_350_0000.nii.gz<br>
+Three time submissions on the validation set are allowed, each submission should be associated with independent short papers.
 
 
 
