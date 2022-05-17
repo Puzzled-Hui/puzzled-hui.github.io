@@ -28,7 +28,7 @@ Your docker container should do the following things:
 <br>
 1. Load each CT file (.nii.gz) in /workspace/inputs/
 <br>
-2. Apply the automatic segmentation algorithmn.
+2. Apply the automatic segmentation algorithm.
 <br>
 3. Save the binary result to /workspace/outputs/. Note that the filename of binary result should be the same as the input CT file.
 <br>
@@ -38,10 +38,12 @@ We will provide a tiny testset for you to prepare the whole pipeline.
 There are some useful public links that we recommend for you in case you are not familiar with the docker.
 <br>
 <a href="https://github.com/YaoZhang93/FLARE2021-Baseline"> Docker Example 1  </a>
-</p>
+
 <a href="https://github.com/PerceptionComputingLab/PARSE2022/blob/main/docker_rules/docker-submission-rules.md"> Docker Example 2 </a>
+</p>
 
 ## Validation Phase Submission Guideline
+<p style= "text-align:justify">
 In regard to the validation phase, we open a validation phase in the grand-challenge, in this phase, you should:
 <br>
 Step 1. Email a short paper to IMR-ATM22@outlook.com.
@@ -54,6 +56,7 @@ teamnameVal1/<br>
 ...<br>
 |————ATM_350_0000.nii.gz<br>
 Three time submissions on the validation set are allowed, each submission should be associated with independent short papers.
+</p>
 
 
 
