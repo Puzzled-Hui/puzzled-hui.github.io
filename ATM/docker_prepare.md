@@ -48,7 +48,7 @@ Step 1. Email a short paper to IMR-ATM22@outlook.com.
 <br>
 Step 2. Submit the compressed binary segmentation result (e.g., teamnameVal1.zip) on the Validation Phase.  Folder structure:
 <br>
-teamnameVal1/
+teamnameVal1/<br>
 |————ATM_301_0000.nii.gz<br>
 |————ATM_301_0000.nii.gz<br>
 ...<br>
