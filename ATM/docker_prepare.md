@@ -21,5 +21,20 @@ The submitted docker should be named as `teamname.tar.gz` (teamname should be lo
 <br> 
 <i class="fas fa-exclamation-triangle"></i> NOTE:
 We will mount the $PWD/inputs/ [a folder contains testing cases, file structure is same as the training and validation] to /workspace/inputs/ in your docker container, and and mount $PWD/teamname_outputs/ [an empty folder used to save individual prediction results] to /workspace/outputs/ in your docker container.
+<br>
+Your docker container should do the following things:
+<br>
+1. load each CT file (.nii.gz) in /workspace/inputs/
+<br>
+2. apply the automatic segmentation algorithmn.
+<br>
+3. save the binary result to /workspace/outputs/. Note that the filename of binary result should be the same as the input CT file.
+<br>
+We will provide a tiny testset for you to prepare the whole pipeline.
 
+
+<br>
+There are some useful public links that we recommend for you in case you are not familiar with the docker.
+<br>
+<a href="https://github.com/YaoZhang93/FLARE2021-Baseline"> 1. Docker Example </a>
 </p>
