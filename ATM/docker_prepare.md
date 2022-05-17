@@ -56,6 +56,7 @@ teamnameVal1/<br>
 ...<br>
 |————ATM_350_0000.nii.gz<br>
 TIPS: The number index is not exactly from 301-350, but the total count is 50 as scheduled.<br>
+In Validation Phase, we will return the mean DSC and precision of the results. Please guarantee your results is processed with the largest component extraction. Only the largest component of the binary results is considered, otherwise, there will raise an error.<br>
 Three time submissions on the validation set are allowed, each submission should be associated with independent short papers.
 </p>
 
