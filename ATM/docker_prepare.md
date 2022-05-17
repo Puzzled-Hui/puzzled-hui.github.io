@@ -2,6 +2,8 @@
 <div align=center><img src="https://raw.githubusercontent.com/Puzzled-Hui/puzzled-hui.github.io/main/ATM/figures/titlepage.png"></div>
 
 <!-- ## Under Construction ...  -->
+
+## Test Phase Submission Guideline
 <p style= "text-align:justify">
 The participants should have some experience in the docker operations. The final docker tar file size must be less than 15 GB.
 The docker should execute no more than 6 hours and occupy no more than 16 GB GPU Memory at best to generate the segmentation test results.
@@ -24,17 +26,32 @@ We will mount the $PWD/inputs/ [a folder contains testing cases, file structure 
 <br>
 Your docker container should do the following things:
 <br>
-1. load each CT file (.nii.gz) in /workspace/inputs/
+1. Load each CT file (.nii.gz) in /workspace/inputs/
 <br>
-2. apply the automatic segmentation algorithmn.
+2. Apply the automatic segmentation algorithmn.
 <br>
-3. save the binary result to /workspace/outputs/. Note that the filename of binary result should be the same as the input CT file.
+3. Save the binary result to /workspace/outputs/. Note that the filename of binary result should be the same as the input CT file.
 <br>
 We will provide a tiny testset for you to prepare the whole pipeline.
-
 
 <br>
 There are some useful public links that we recommend for you in case you are not familiar with the docker.
 <br>
-<a href="https://github.com/YaoZhang93/FLARE2021-Baseline"> 1. Docker Example </a>
+<a href="https://github.com/YaoZhang93/FLARE2021-Baseline"> Docker Example 1  </a>
 </p>
+<a href="https://github.com/PerceptionComputingLab/PARSE2022/blob/main/docker_rules/docker-submission-rules.md"> Docker Example 2 </a>
+
+## Validation Phase Submission Guideline
+
+
+
+
+
+
+
+
+
+
+
+
+
