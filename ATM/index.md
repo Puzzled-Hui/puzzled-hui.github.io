@@ -23,6 +23,7 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 * The accuracy of segmentation. We use the metric of the Dice similarity coefficient and Precision to measure the overlap-wise and pixel-wise segmentation accuracy, respectively.    -->
 <p style= "text-align:justify">
 <font color="firebrick" size=6><b> <i class="fa-solid fa-newspaper fa-2x"></i>  NEWS</b></font>
+<br>
 <font color="black"> 2022/05/20: The registration has been open! Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for more details!</font>
 <br>
 <font color="black"> 2022/05/01: Official Website Open, Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for participation.</font>
