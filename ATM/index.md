@@ -81,7 +81,7 @@ The organizers promise the blackout period will not be no longer than six months
 
 ## <i class="fas fa-cloud-upload fa-2x"></i> Submission Guideline
 <p style= "text-align:justify">
-<i class="fa-solid fa-1"></i> Please send the <a href="https://drive.google.com/file/d/1hIR7KKe_8zRO1Af1_6kuu5RGUqeqLlnQ/view?usp=sharing"> <font color="red"><b>signed document</b></font></a> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
+<i class="fa-solid fa-1"></i> Please send the <a href="https://drive.google.com/file/d/11JHSjA1RFyuoo7e-Z2WO9wvRLYNgT0JX/view?usp=sharing"> <font color="red"><b>signed document</b></font></a> to <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> for paticipation.
 <br>  
 <i class="fa-solid fa-2"></i> After investigatation, organizing committee will send the access of the data to the teams.
 <br>
