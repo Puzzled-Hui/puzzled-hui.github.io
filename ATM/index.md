@@ -24,6 +24,8 @@ The automatic airway segmentation algorithms are expected to be optimized to hav
 <p style= "text-align:justify">
 <font color="firebrick" size=6><b> <i class="fa-solid fa-newspaper fa-2x"></i>  NEWS</b></font>
 <br>
+<font color="black"> 2022/05/30: The Training data have been released! Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for more details!</font>
+<br>
 <font color="black"> 2022/05/20: Registration has been open! Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for more details!</font>
 <br>
 <font color="black"> 2022/05/01: Official Website Open, Please refer to <i class="far fa-hand-point-right"></i> <a href="https://atm22.grand-challenge.org/"> Grand-Challenge Page</a> for participation.</font>
