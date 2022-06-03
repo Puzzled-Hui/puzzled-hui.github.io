@@ -63,7 +63,7 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 ## <i class="fa-solid fa-person-chalkboard fa-2x"></i> Organizers
 <p><font color=black> Prof. Guang-Zhong Yang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 <p><font color=black> Dr. Yun Gu </font> (Institute of Medical Robotics, Shanghai Jiao Tong University) <i class="fas fa-envelope"></i> <font color=black><b>Primary Contact</b></font>  </p> 
-<p><font color=black> Mr. Minghui Zhang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
+<p><font color=black> Mr. Minghui Zhang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University) <i class="fas fa-envelope"></i> <font color=black><b>Contact</b></font> </p>
 <p><font color=black> Mr. Yangqian Wu </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 <p><font color=black> Mr. Hanxiao Zhang </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 <p><font color=black> Mr. Weihao Yu </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
@@ -114,7 +114,7 @@ the EXACT'09 Challenge [1].</p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
-<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a>
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn | Contact: <a href="mailto:minghuizhang@sjtu.edu.cn "> minghuizhang@sjtu.edu.cn </a>
 </p>
 
 
