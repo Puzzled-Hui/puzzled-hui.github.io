@@ -114,7 +114,7 @@ the EXACT'09 Challenge [1].</p>
 
 
 ## <i class="fas fa-envelope fa-2x"></i> Contact Us
-<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn | Contact: <a href="mailto:minghuizhang@sjtu.edu.cn "> minghuizhang@sjtu.edu.cn </a>
+<p style= "text-align:justify"> If you have any questions about our challenge, please feel free to contact us.<br> Official Email: <a href="mailto:IMR-ATM22@outlook.com"> IMR-ATM22@outlook.com </a> | Primary Contact: <a href="mailto:geron762@sjtu.edu.cn "> geron762@sjtu.edu.cn </a> | Contact: <a href="mailto:minghuizhang@sjtu.edu.cn "> minghuizhang@sjtu.edu.cn </a>
 </p>
 
 
