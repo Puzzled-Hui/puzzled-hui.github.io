@@ -69,7 +69,8 @@ We collected 500 CT scans from multi-sites. The airway tree structures are caref
 <p><font color=black> Mr. Weihao Yu </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 <p><font color=black> Dr. Yulei Qin </font> (Institute of Medical Robotics, Shanghai Jiao Tong University)</p>
 <p><font color=black> Prof. Jiayuan Sun </font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)</p>
-
+<p><font color=black> Dr. FangFang Xie </font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)</p>
+<p><font color=black> Dr.  Xiaoxuan Zheng  </font> (Department of Respiratory Endoscopy, Shanghai Chest hospital)</p>
 
 ## <i class="fa-solid fa-database fa-2x"></i> Dataset
 <p style= "text-align:justify">
